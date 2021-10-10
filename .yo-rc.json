@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "generator-version": "3.3.1",
+    "promptValues": {
+      "developer": "acme"
+    },
+    "libraryName": "meetingStage"
+  }
+}
